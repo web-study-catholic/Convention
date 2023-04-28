@@ -5,8 +5,8 @@
 
 | 💻 FE-Developer | 💻 FE-Developer | 💻 FE-Developer | 💻 FE-Developer | 💻 FE-Developer |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| <a href='https://github.com/tlshoon'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/87574833?v=4"></a> |    <a href='https://github.com/dhdh2040'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/83562727?v=4"></a>             |   <a href='https://github.com/jjuny-won'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/101424642?v=4"></a>  | <a href='https://github.com/WonJuneKim'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/101927445?v=4"></a> |  |
-|     @tlshoon    |        @dhdh2040        |        @jjuny-won         |     @WonJuneKim      |           |
+| <a href='https://github.com/tlshoon'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/87574833?v=4"></a> |    <a href='https://github.com/dhdh2040'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/83562727?v=4"></a>             |   <a href='https://github.com/jjuny-won'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/101424642?v=4"></a>  | <a href='https://github.com/WonJuneKim'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/101927445?v=4"></a> |  <a href='https://github.com/WonJuneKim'><img width="150" height="150" src="https://avatars.githubusercontent.com/u/70528332?v=4"></a>  |
+|     @tlshoon    |        @dhdh2040        |        @jjuny-won         |     @WonJuneKim      |     @Yeonsu00-12      |
 
 <br>
 
