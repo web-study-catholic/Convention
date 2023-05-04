@@ -18,6 +18,26 @@
 
 <br>
 
+## 🖥️ 레포지토리 올리는 법
+ 1. git init
+ 2. git add .
+ 3. git commit -m '커밋메세지~'
+ 4. git remote add origin 레포지토리 주소
+ 5. git branch -M main
+ 6. git push -u origin main
+ 
+ <br>
+ 
+ ## 🗃️ PR 올리는 법
+  1. git checkout -b code-review   (code-review라는 브랜치를 만듦)
+  2. git add .
+  3. git commit -m '커밋메세지~'
+  4. git push origin code-review  (code-review를 pr올림)
+ 
+ <br>
+ 
 ## 🧐 스터디 규칙
  - 스터디 전날까지 올리고, 가능하면 다른 스터디원 코드리뷰도 하면 좋을 것 같습니다.
  - 구현이 어렵거나 모르는 개념이 있으면 주석을 달고 커밋을 한 후, 디스코드에 질문을 해주세요.
+
+
