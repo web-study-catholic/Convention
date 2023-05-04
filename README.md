@@ -14,6 +14,8 @@
  - package manage는 npm을 사용하도록 합니다.
  - 자신의 레포지토리를 만들어서 과제를 올리면 됩니다.<br>
  - 레포지토리 이름은 "과제명_이름"으로 지어주세요.(이름이 길면 첫 세글자만 써도 됩니다!!) ex) TodoList_Jay <br>
+ - 레포지토리를 생성하고 code-review용 브랜치를 만들어주세요. 
+ - 브랜치를 만들고 pr올려주세요.
  - 가능하면 CDD(Component Driven Development) 지향해주세요.
 
 <br>
